@@ -1,0 +1,22 @@
+{
+  "name": "straw-ios-service-browser.js",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Yoshiya Hinosawa <stibium121@gmail.com>"
+  ],
+  "description": "JS interface for straw-ios-service-browser",
+  "keywords": [
+    "straw",
+    "strawiosservice"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/strawjs/straw-ios-service-browser.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
