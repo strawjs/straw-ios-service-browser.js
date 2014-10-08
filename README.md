@@ -1,4 +1,4 @@
-# straw-ios-service-browser.js v0.0.0
+# straw-ios-service-browser.js v0.1.0
 
 **Badge will be here**
 
